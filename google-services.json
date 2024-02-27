@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761442343178",
+    "project_id": "celestia-16a83",
+    "storage_bucket": "celestia-16a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761442343178:android:3deb9404beaafbb99382f3",
+        "android_client_info": {
+          "package_name": "Celestia_143.sicsr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQSRkXaXYzpICKqmHW7oNwKrL2uIgaSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
