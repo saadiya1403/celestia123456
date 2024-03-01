@@ -6,7 +6,7 @@ import { FlatGrid } from 'react-native-super-grid';
 export default function Homepage() {
   const [items, setItems] = React.useState([
     { name: 'TURQUOISE', code: 'pink' },
-    { name: 'EMERALD', code: '#2ecc71' },
+    { name: 'EMERALD', code: 'blue' },
     { name: 'PETER RIVER', code: '#3498db' },
     { name: 'AMETHYST', code: '#9b59b6' },
     { name: 'WET ASPHALT', code: '#34495e' },
